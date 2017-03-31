@@ -1,0 +1,26 @@
+{
+  "name": "bower teste",
+  "description": "teste bower",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "bootstrap-sass": "^3.3.7"
+  },
+  "keywords": [
+    "teste",
+    "bower"
+  ],
+  "authors": [
+    "marcus"
+  ],
+  "private": true
+}
